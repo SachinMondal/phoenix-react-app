@@ -326,8 +326,8 @@ export const wingData = {
         aboutExtended: "Illustro is a vibrant community of photography enthusiasts dedicated to capturing moments and exploring the artistry of visual storytelling. From amateur hobbyists to seasoned professionals, members share techniques, critique each other's work, and organize exhibitions to showcase their talents. Regular workshops and guest lectures by industry experts foster skill development and creativity. Through outings and photo walks, members discover new perspectives and subjects, enriching their photographic journeys. With a supportive atmosphere and a passion for imagery, Illustro serves as a hub for fostering talent and camaraderie among photographers of all levels.",
         members: [
             {
-                name: "soham das",
-                designation: "Wing Lead",
+                name: "--",
+                designation: "--",
                 profileImgUrl: "#",
                 socials: {
                     insta: null,
@@ -337,8 +337,8 @@ export const wingData = {
                 }
             },
             {
-                name: "soham das",
-                designation: "Wing coordinator",
+                name: "--",
+                designation: "--",
                 profileImgUrl: "#",
                 socials: {
                     insta: null,
@@ -348,8 +348,8 @@ export const wingData = {
                 }
             },
             {
-                name: "soham das",
-                designation: "Wing coordinator",
+                name: "--",
+                designation: "--",
                 profileImgUrl: "#",
                 socials: {
                     insta: null,
@@ -359,8 +359,8 @@ export const wingData = {
                 }
             },
             {
-                name: "soham das",
-                designation: "Wing coordinator",
+                name: "--",
+                designation: "--",
                 profileImgUrl: "#",
                 socials: {
                     insta: null,
